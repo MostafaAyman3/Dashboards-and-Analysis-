@@ -1,61 +1,29 @@
-# Dashboards-and-Analysis-
-
-A collection of **Power BI dashboards** and **data analysis reports** showcasing sales performance and Amazon product analytics.
+# Project Overview
 
 ## Projects
 
-### 1) Sales Performance Dashboard (Power BI)
-**File:** `dash_sales.pbix`
+### 1. Sales
+   - Preview:
+     ![Sales Image 1](sales1.jpg)
+     ![Sales Image 2](sales2.jpg)
+   - Description: This project focuses on analyzing sales data and providing insights.
 
-**What you can analyze**
-- Total Sales (overall)
-- Quantity Sold
-- Profit
-- Average Order Size
-- Month-over-Month (MoM%) & Year-over-Year (YoY%) change
-- Performance breakdown by Region, Product Category, Sales Rep, and Time of Day
+### 2. Amazon
+   - Preview:
+     ![Amazon Sales Image 1](amazon sales.jpg)
+     ![Amazon Sales Image 2](amazon sales2.jpg)
+   - Description: This project involves analyzing Amazon sales data for insights on purchasing behavior.
 
-**Key visuals (from the report)**
-- KPI cards: Total Sales, Quantity Sold, Profit, Avg Order Size, MoM%
-- Time series: Average Total Sales by Month, Profit by Month
-- Breakdown charts: Sales & Quantity by Sales Rep, Sales by Product Category
-- Region comparison: Total Sales vs Return Flag
+### 3. Air Quality
+   - Preview:
+     ![Air Quality Image 1](air quality.jpg)
+     ![Air Quality Image 2](air qualty2.jpg)
+   - Description: This project monitors air quality and analyzes the impact on health.
 
-**Preview (Sales)**
-> These previews are screenshots of the PBIX report pages.
-
-![Sales Dashboard - Overview](./image.png)
-
----
-
-### 2) Amazon Product Dashboard (Power BI)
-**File:** `amazon phones.pbix`
-
-**What you can analyze**
-- Total sales volume
-- Average product price
-- Average rating
-- Top sold products (Top 5)
-- Prime vs Non-Prime product distribution
-- Price comparison (Original vs Minimum Offer)
-- Amazon Choice & Best Seller counts
-
-**Preview (Amazon)**
-
-![Amazon Product Dashboard - Page 1](./amazon%20sales.jpg)
-
-![Amazon Product Dashboard - Page 2](./amazon%20sales2.jpg)
-
----
-
-## How to run
-1. Install **Microsoft Power BI Desktop**.
-2. Clone/download the repo.
-3. Open any `.pbix` file:
-   - `dash_sales.pbix`
-   - `amazon phones.pbix`
-   - `DashBoard.pbix`
+## How to Run
+- Clone the repository.
+- Install required dependencies.
+- Run the main application.
 
 ## Author
-**Mostafa Ayman**  
-GitHub: https://github.com/MostafaAyman3
+- Mostafa Ayman
